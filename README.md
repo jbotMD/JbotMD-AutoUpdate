@@ -5,28 +5,24 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/jbotMD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-jbotXjisan-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/jbotMD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-jbotMD-green.svg?style=for-the-badge&logo=github"></a>
+
 
 ##
-<p align="center">
-<a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
-
-##
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285864034767&text=.menu)
-[![CHANNEL](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J)
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285174269046)
- 
-
-
-
-## NOTE BEFORE USING!!
-- EDIT ALL IMFORMATIOS AOWNER | LINK DI CONFIG.JS
-- SEBAGIAN FITUR MENGGUNAKAN APIKEY , GUNAKAN VIP/FREE LINK ALL APIKEY DI FILE JISAN.TXT
-- JBOTMD PAIRING-CODE
-
+[![NOMOR BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=62895356194488&text=.menu)
+[![GROUP WHATSAPP](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Bnb3ViWbHxVL4Hs6DGMFrW)
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628999079286)
+[![ONWER 2](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895356194488)
 ---------
 
-### JENIS MENU JBOTMD
+## SETTING !!!
+- EDIT ALL INFORMATIONS AOWNER | ALLLINK DI CONFIG.JS
+- SEBAGIAN FITUR MENGGUNAKAN APIKEY
+  GUNAKAN VIP/FREE SEMUA LINK APIKEY DI FILE JBOT.TXT
+- JBOTMD PAIRING-CODE
+---------
+
+### ALLFEATURE JBOTMD
 - ✔️ | ANTICAL
 - ✔️ | ANTILINK MODE DELETE
 - ✔️ | ANTILINK2 MODE KICK
@@ -46,20 +42,10 @@
 - ✔️ | STORE
 - ✔️ | GROUP
 - ✔️ | MODAPK
-
 ---------
 
 
-## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jbotXjisan/jbot-MD)
-
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
-
-#### If npm install failed, try using yarn instead of npm
+#### PENGINSTALAN MODULE DAN SC MELALUI TERMINAL
 ```bash
   INSTALL MODULE √
 $ npm install
@@ -79,12 +65,21 @@ $ npm start or node index.js
 ```
 ---------
 
+
 [ LINK COPY INSTALLING FOR TERMINAL TERMUX OR WIDOWS ]
 
 ```bash
 git clone https://github.com/jbotMD/jbot-v5.0
 ```
+---------
 
+
+## ```MEDIA SOSIAL```
+| BuildPack | LINK |
+|--------|--------|
+| **YOUTUBE** |[here](https://www.youtube.com/@jbotMD) |
+| **INSTAGRAM** | [here](https://instagram.com/jbotMD) |
+| **FANSPAGE** | [here](https://www.facebook.com/profile.php?id=61558519513796) |
 ---------
 
 
@@ -93,8 +88,8 @@ git clone https://github.com/jbotMD/jbot-v5.0
 2. Sebelum pakai jangan lupa kasih star
 3. Follow myMedia sosial github, youtube, Fanspage
 4. Jangan lupa Donasi bang :v
-
 ---------
+
 
 ### Thanks To
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
@@ -102,5 +97,4 @@ git clone https://github.com/jbotMD/jbot-v5.0
 [![jbotMD](https://github.com/jbotMD.png?size=100)](https://github.com/jbotMD)
 [![jbotXjisan](https://github.com/jbotXjisan.png?size=100)](https://github.com/jbotXjisan)
 ####
-
 ---------
