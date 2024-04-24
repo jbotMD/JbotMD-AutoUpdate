@@ -9,10 +9,10 @@
 
 
 ##
-[![NOMOR BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=62895356194488&text=.menu)
-[![GROUP WHATSAPP](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Bnb3ViWbHxVL4Hs6DGMFrW)
+[![NOMOR BOT](https://img.shields.io/badge/nomor%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=62895356194488&text=.menu)
+[![GROUP WHATSAPP](https://img.shields.io/badge/group%20whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Bnb3ViWbHxVL4Hs6DGMFrW)
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628999079286)
-[![ONWER 2](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895356194488)
+[![ONWER 2](https://img.shields.io/badge/Owner2%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895356194488)
 ---------
 
 ## SETTING !!!
