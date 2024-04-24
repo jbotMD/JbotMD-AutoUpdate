@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./Gth.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./profile.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">jbotXjisan</h1>
 
