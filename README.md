@@ -59,7 +59,7 @@ $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 & git clone https://github.com/jbotMD/jbot-v5.0
 $ cd <namescript>
-$ npm start or node index.js
+$ npm start
 ```
 ---------
 
@@ -85,7 +85,7 @@ git clone https://github.com/jbotMD/jbot-v5.0
 1. Scrip ini Gratis
 2. Sebelum pakai jangan lupa kasih star
 3. Follow myMedia sosial github, youtube, Fanspage
-4. Jangan lupa Donasi bang :v
+4. Jangan lupa anu :( Follow bang :v
 ---------
 
 
