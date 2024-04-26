@@ -75,7 +75,7 @@ git clone https://github.com/jbotMD/jbot-v5.0
 
 
 ## ```MEDIA SOSIAL```
-| BuildPack | LINK |
+| MediaSosial | LINK |
 |--------|--------|
 | **YOUTUBE** |[here](https://www.youtube.com/@jbotMD) |
 | **INSTAGRAM** | [here](https://instagram.com/jbotMD) |
